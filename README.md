@@ -35,7 +35,7 @@
 -   [TCP와 UDP의 특징과 차이점에 대해서 설명해 주세요.](https://github.com/junho112/CS-study/issues/3)
 -   TCP 헤더에 대해서 설명해 주세요.
 -   MTU가 무엇인가요?
--   [3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.] (https://github.com/junho112/CS-study/issues/4)
+-   [3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.](https://github.com/junho112/CS-study/issues/4)
 -   HTTP 프로토콜에 대해서 아는대로 말해주세요.
 -   HTTP와 HTTPS 의 차이는 무엇인가요?
 -   HTTPS가 동작하는 방식에 대해서 설명해 주세요.
