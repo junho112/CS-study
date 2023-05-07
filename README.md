@@ -46,7 +46,7 @@
 -   HTTP GET과 POST의 차이는 무엇인가요?
 -   쿠키와 세션에 대해서 설명해 주세요.
 -   웹브라우저에서 서버로 요청했을 때, 흐름을 설명해주세요.
--   CORS란 무엇인가요?
+-   [CORS란 무엇인가요?](https://github.com/junho112/CS-study/issues/5)
 -   웹 서버와 웹 어플리케이션 서버(WAS)의 차이는 무엇인가요?
 -   REST API에 대해서 설명해 주세요.
 -   API Gateway란 무엇인가요?
