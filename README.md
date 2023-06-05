@@ -32,7 +32,7 @@
 -   [네트워크 장비 중 L4 스위치의 주요 기능에 대해 설명해주세요](https://github.com/junho112/CS-study/issues/8)
 -   [OSI 7계층에 대해서 설명해주세요.](https://github.com/junho112/CS-study/issues/10)
 -   [TCP/IP 4계층에 대해서 설명해주세요.](https://github.com/junho112/CS-study/issues/11)
--   [OSI 7계층과 TCP/IP 계층을 비교하여 설명해주세요.](https://github.com/junho112/CS-study/issues/9)
+-   [OSI 7계층과 TCP/IP 4계층을 비교하여 설명해주세요.](https://github.com/junho112/CS-study/issues/9)
 -   [DNS가 무엇인가요?](https://github.com/junho112/CS-study/issues/2)
 -   [도메인 이름으로 실제 IP를 어떻게 찾을 수 있는지 흐름을 설명해 주세요](https://github.com/junho112/CS-study/issues/1)
 -   [TCP와 UDP의 특징과 차이점에 대해서 설명해 주세요.](https://github.com/junho112/CS-study/issues/3)
